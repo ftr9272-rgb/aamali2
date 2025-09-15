@@ -1,0 +1,32 @@
+# Ignore OS and editor files
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+ntuser.dat
+ntuser.dat.log*
+
+# Windows Apps / OneDrive temp folders
+AppData/
+\n+# VS Code
+.vscode/
+.vscode-oss/
+
+# Node & package managers
+node_modules/
+dist/
+*.log
+package-lock.json
+pnpm-lock.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Tools headless artifacts (keep if you want them)
+tools/headless/artifacts/
+
+# Ignore local restore points / backups
+*.ps1
+*.bak
