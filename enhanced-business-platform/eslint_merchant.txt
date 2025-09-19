@@ -1,0 +1,12 @@
+﻿
+C:\Users\ffwfj\OneDrive\╪│╪╖╪ص ╪د┘┘à┘â╪ز╪ذ\salasa5\enhanced-business-platform\src\components\merchant\MerchantLayout.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\ffwfj\OneDrive\╪│╪╖╪ص ╪د┘┘à┘â╪ز╪ذ\salasa5\enhanced-business-platform\src\components\merchant\MerchantReceivedQuotations.jsx
+  166:6  warning  React Hook useEffect has a missing dependency: 'fetchQuotations'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\ffwfj\OneDrive\╪│╪╖╪ص ╪د┘┘à┘â╪ز╪ذ\salasa5\enhanced-business-platform\src\components\merchant\MerchantSuppliers.jsx
+  168:6  warning  React Hook useEffect has a missing dependency: 'fetchSuppliers'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+ظ£û 3 problems (1 error, 2 warnings)
+
